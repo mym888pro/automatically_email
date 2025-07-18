@@ -11,7 +11,7 @@ SMTP_USERNAME=your_email@example.com
 SMTP_PASSWORD=your_email_password
 FROM_EMAIL=your_email@example.com
 TO_EMAILS=recipient1@example.com,recipient2@example.com
-或者直接在代码中修改以上值（我附在库中）
+或者直接在代码中修改以上值（我附在库中，在SMTP_USERNAME=后写您的邮件名，在SMTP_PASSWORD=后写您的邮件密码）
 依赖安装：
 需要安装 python-dotenv 包来读取环境变量（在cmd中运行，需自行安装）:
 pip install python-dotenv
