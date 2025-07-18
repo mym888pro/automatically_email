@@ -1,0 +1,2 @@
+在SMTP_USERNAME=后写您的邮件名
+在SMTP_PASSWORD=后写您的邮件密码
